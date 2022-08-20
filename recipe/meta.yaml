@@ -28,7 +28,6 @@ requirements:
 test:
   imports:
     - starsessions
-    - starsessions.backends
   commands:
     - pip check
   requires:
