@@ -32,7 +32,7 @@ test:
     - pip check
   requires:
     - aioredis >=2.0.0
-    - redis
+    - redis-py
     - pip
 
 about:
