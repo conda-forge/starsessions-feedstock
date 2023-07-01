@@ -1,11 +1,11 @@
-About starsessions
-==================
+About starsessions-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/starsessions-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/alex-oleshkevich/starsessions
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/starsessions-feedstock/blob/main/LICENSE.txt)
 
 Summary: Pluggable session support for Starlette.
 
