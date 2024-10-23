@@ -1,5 +1,5 @@
 {% set name = "starsessions" %}
-{% set version = "2.2.0" %}
+{% set version = "2.2.1" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/starsessions-{{ version }}.tar.gz
-  sha256: e9e06ccca176f0e40deac11e7a6cb8ec48bdd3b1a214f847be501c4b5296e4ea
+  sha256: ce5e4448d9bf2c76222e56cd099ad92d22313e8a4def612e22b71a122cc11da0
 
 build:
   number: 0
